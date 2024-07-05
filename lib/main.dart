@@ -4,7 +4,7 @@ void main() {
   runApp(MaterialApp(
     home: Scaffold(
       appBar: AppBar(
-        title: const ('My Coffee'),
+        title: const Text('My Coffee'),
         backgroundColor: Color.fromARGB(255, 240, 222, 169),
         
       ),
