@@ -5,7 +5,7 @@ void main() {
     home : Scaffold(
       appBar: AppBar(
         title: const Text("Coffee Shop"),
-        backgroundColor : Color.fromARGB(255, 245, 225, 161),
+        backgroundColor : const Color.fromARGB(255, 245, 225, 161),
         centerTitle: true,
       ),
     ),
