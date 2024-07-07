@@ -5,6 +5,7 @@ void main() {
     home : Scaffold(
       appBar: AppBar(
         title: Text("Coffee Shop"),
+        backgroundColor: Colors.indigo[50],
       ),
     ),
   ));
