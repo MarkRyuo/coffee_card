@@ -6,6 +6,7 @@ void main() {
       appBar: AppBar(
         title: const Text("Coffee Shop"),
         backgroundColor : Colors.amber[50],
+        
       ),
     ),
   ));
